@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Slower, safer, healthier for tourism, private use or business. Make everyone
   arrive sooner and more thoroughly enjoy the city spaces
-datePublished: '2016-07-13T10:27:31.984Z'
-dateModified: '2016-07-13T10:27:11.686Z'
+datePublished: '2016-07-13T11:23:08.165Z'
+dateModified: '2016-07-13T11:02:38.082Z'
 title: >-
   Invite Scouter into your neighborhood. You can start by downloading the APP
   and buying 100 miles worth of rides for only $5. 
