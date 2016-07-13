@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Scouter City]]></title>
+        <description><![CDATA[Scouter City]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 07:37:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[For the cities we’d all love to live in]]></title>
+            <description><![CDATA[<article><h1>For the cities we’d all love to live in</h1><p>Slower, cleaner, safer, your city can be a far more more enjoyable when you move away from using the car for everything. Riding a bicycle, the bus, tram or metro is great.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b071a8a0-206f-4821-893d-f2766df8df9e.jpg"></article>]]></description>
+            <link>undefinedfor-the-cities-wed-all-love-to-live-in/index.html</link>
+            <guid isPermaLink="false">84ffe8b4-9726-4378-86b0-8b5295d3c48e</guid>
+            <pubDate>Wed, 13 Jul 2016 07:37:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
