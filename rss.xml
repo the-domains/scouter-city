@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Scouter City]]></title>
         <description><![CDATA[Scouter City]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scouter-city/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 07:37:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 07:43:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scouter-city/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/753ecd24-8670-4895-945d-ce12209f34e3.jpg">]]></description>
+            <link>https://thegrid.ai/scouter-city/bf79b266-d509-40d6-b4f5-b81f978bf250/index.html</link>
+            <guid isPermaLink="false">bf79b266-d509-40d6-b4f5-b81f978bf250</guid>
+            <pubDate>Wed, 13 Jul 2016 07:43:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[For the cities we’d all love to live in]]></title>
             <description><![CDATA[<article><h1>For the cities we’d all love to live in</h1><p>Slower, cleaner, safer, your city can be a far more more enjoyable when you move away from using the car for everything. Riding a bicycle, the bus, tram or metro is great.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b071a8a0-206f-4821-893d-f2766df8df9e.jpg"></article>]]></description>
-            <link>undefinedfor-the-cities-wed-all-love-to-live-in/index.html</link>
+            <link>https://thegrid.ai/scouter-city/for-the-cities-wed-all-love-to-live-in/index.html</link>
             <guid isPermaLink="false">84ffe8b4-9726-4378-86b0-8b5295d3c48e</guid>
             <pubDate>Wed, 13 Jul 2016 07:37:16 GMT</pubDate>
         </item>
