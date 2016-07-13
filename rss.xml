@@ -4,8 +4,15 @@
         <description><![CDATA[Scouter City]]></description>
         <link>https://thegrid.ai/scouter-city/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 10:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 11:04:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scouter-city/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Building neighborhoods for people]]></title>
+            <description><![CDATA[<article><h1>Building neighborhoods for people</h1><p>The best cities to live-in have demonstrated a variety of resources to improve the flow of movement including bike paths, preferential parking for electric vehicles, smart traffic signals to reduce commute times for everyone and make spaces safer and healthier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dd991b56d31c230efcc698f123ca05c12f3d8ee.jpg"></article>]]></description>
+            <link>https://thegrid.ai/scouter-city/bf79b266-d509-40d6-b4f5-b81f978bf250/index.html</link>
+            <guid isPermaLink="false">bf79b266-d509-40d6-b4f5-b81f978bf250</guid>
+            <pubDate>Wed, 13 Jul 2016 11:04:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Invite Scouter into your neighborhood. You can start by downloading the APP and buying 100 miles worth of rides for only $5. ]]></title>
             <description><![CDATA[<article><h1>Invite Scouter into your neighborhood. You can start by downloading the APP and buying 100 miles worth of rides for only $5. </h1><p>Slower, safer, healthier for tourism, private use or business. Make everyone arrive sooner and more thoroughly enjoy the city spaces</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/994226d2-31bb-43e3-89f4-25df214a3de0.png"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/scouter-city/for-the-cities-wed-all-love-to-live-in/index.html</link>
             <guid isPermaLink="false">84ffe8b4-9726-4378-86b0-8b5295d3c48e</guid>
             <pubDate>Wed, 13 Jul 2016 08:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building neighborhoods for people]]></title>
-            <description><![CDATA[<article><h1>Building neighborhoods for people</h1><p>The best cities to live-in have demonstrated a variety of resources to improve the flow of movement including bike paths, preferential parking for electric vehicles, smart traffic signals to reduce commute times for everyone and make spaces safer and healthier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dd991b56d31c230efcc698f123ca05c12f3d8ee.jpg"></article>]]></description>
-            <link>https://thegrid.ai/scouter-city/bf79b266-d509-40d6-b4f5-b81f978bf250/index.html</link>
-            <guid isPermaLink="false">bf79b266-d509-40d6-b4f5-b81f978bf250</guid>
-            <pubDate>Wed, 13 Jul 2016 08:01:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
