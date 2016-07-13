@@ -7,12 +7,12 @@ keywords: []
 description: >-
   Slower, cleaner, safer, your city can be a far more more enjoyable when you
   move away from using the car for everything. Riding a bicycle, the bus, tram
-  or metro is great. 
-datePublished: '2016-07-13T07:37:16.930Z'
-dateModified: '2016-07-13T07:36:50.252Z'
+  or metro is great.
+datePublished: '2016-07-13T08:07:37.104Z'
+dateModified: '2016-07-13T08:07:08.606Z'
 title: For the cities we’d all love to live in
 author:
-  - name: 'Alex Davies of Wired '
+  - name: ''
     url: ''
 sourcePath: _posts/2016-07-12-getting-rid-of-congestion-to-achieve-more-lovable-cities.md
 authors: []
