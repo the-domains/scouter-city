@@ -8,8 +8,8 @@ description: >-
   Slower, cleaner, safer, your city can be a far more more enjoyable when you
   move away from using the car for everything. Riding a bicycle, the bus, tram
   or metro is great.
-datePublished: '2016-07-13T08:07:37.104Z'
-dateModified: '2016-07-13T08:07:08.606Z'
+datePublished: '2016-07-13T11:04:50.365Z'
+dateModified: '2016-07-13T11:04:49.646Z'
 title: For the cities we’d all love to live in
 author:
   - name: ''
@@ -17,7 +17,7 @@ author:
 sourcePath: _posts/2016-07-12-getting-rid-of-congestion-to-achieve-more-lovable-cities.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: for-the-cities-wed-all-love-to-live-in/index.html
 _type: Article
 
