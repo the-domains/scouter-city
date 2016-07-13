@@ -4,18 +4,22 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-13T09:16:07.420Z'
-dateModified: '2016-07-13T09:16:03.204Z'
+description: >-
+  Slower, safer, healthier for tourism, private use or business. Make everyone
+  arrive sooner and more thoroughly enjoy the city spaces
+datePublished: '2016-07-13T09:21:14.804Z'
+dateModified: '2016-07-13T09:20:26.292Z'
 title: >-
   Invite Scouter into your neighborhood. You can start by downloading the APP
   and buying 100 miles worth of rides for only $5. 
-author: []
-authors: []
-publisher: null
-starred: false
+author:
+  - name: ''
+    url: ''
 sourcePath: >-
   _posts/2016-07-13-invite-scouter-into-your-neighborhood-you-can-start-by-down.md
+authors: []
+publisher: null
+starred: true
 url: invite-scouter-into-your-neighborhood-you-can-start-by-down/index.html
 _type: Article
 
